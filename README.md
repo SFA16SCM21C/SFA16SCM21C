@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Saloni Chauhan
 
-*Chicago, IL 60616 | 312-678-6689 | [saloni.chauhan@gmail.com](mailto:saloni.chauhan@gmail.com) | [GitHub](https://github.com/salonichauhan) | [LinkedIn](https://www.linkedin.com/in/salonichauhan)*
+*Chicago, IL 60616 | 312-678-6689 | [saloni.chauhan@gmail.com](mailto:tosalonichauhan@gmail.com) | [GitHub](https://github.com/SFA16SCM21C) | [LinkedIn](https://www.linkedin.com/in/saloni-chauhan)*
 
 ---
 
