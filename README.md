@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![gif from https://giphy.com/](https://media.giphy.com/media/IeSXccYMz3K4U/source.gif)
 
 
-# Saloni Chauhan
+# Saloni Chauhan 
 
 *312-678-6689 | [saloni.chauhan@gmail.com](mailto:tosalonichauhan@gmail.com) | [GitHub](https://github.com/SFA16SCM21C) | [LinkedIn](https://www.linkedin.com/in/saloni-chauhan)*
 
