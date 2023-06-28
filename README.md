@@ -61,11 +61,11 @@ Innovative full stack developer with over 5 years of experience in crafting robu
 
 ## SKILLS
 
-**Programming Languages:** Java(1.7, 1.8, v11), Python, AngularJS, Angular(v7, v12), NodeJS(v14), JavaScript(ES3-19), HTML5, CSS3.
+**Programming Languages:** Java(1.7, 1.8, v11), Python, AngularJS, Angular(v7, v12), NodeJS(v14), JavaScript(ES3, ES19), HTML5, CSS3.
 
 **Operating Systems:** Windows, MacOS(Monterey)
 
-**Technologies:** Docker, Jenkins CI/CD, JIRA, Twitter API, Web Services (REST), MSSQL, MySQL, ORACLE, Git, AngularJS and ReactJS, TypeScript(v1-4), Postman, Bit Bucket, Firebase
+**Technologies:** Docker, Jenkins CI/CD, JIRA, Twitter API, Web Services (REST), MSSQL, MySQL, ORACLE, Git, AngularJS and ReactJS, TypeScript(v1, v4), Postman, Bit Bucket, Firebase
 
 **IDEs:** IntelliJ, Visual Studio, Eclipse
 
