@@ -63,7 +63,7 @@ Innovative full stack developer with over 5 years of experience in crafting robu
 
 **Programming Languages:** Java(1.7, 1.8, v11), Python, AngularJS, Angular(v7, v12), NodeJS(v14), JavaScript(ES3-19), HTML5, CSS3.
 
-**Operating Systems:** Windows 10/8/7/NT/XP/2000/98, MacOS(Monterey)
+**Operating Systems:** Windows, MacOS(Monterey)
 
 **Technologies:** Docker, Jenkins CI/CD, JIRA, Twitter API, Web Services (REST), MSSQL, MySQL, ORACLE, Git, AngularJS and ReactJS, TypeScript(v1-4), Postman, Bit Bucket, Firebase
 
