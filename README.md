@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 ## SUMMARY
-Innovative full stack developer with over 5 years of experience in crafting robust web applications. Proficient in HTML/CSS, JavaScript, Python, Node.js, Angular, and SQL. Specialize in creating responsive interfaces using React/Angular and Typescript/JavaScript frameworks. Skilled in efficient back-end development with Node.js and Python, utilizing MySQL and MongoDB for scalable data modeling. Leveraging AWS (Amazon Web Services) for serverless capabilities through AWS Lambda, Amazon S3, and AWS CloudWatch. Effective communicator, consistently delivering high-quality code within timelines and budgets. Committed to continuous skills enhancement, staying updated with industry trends.
+Innovative full-stack developer with over 5 years of experience in crafting robust web applications. Proficient in HTML/CSS, JavaScript, Python, Node.js, Angular, and SQL. Specialize in creating responsive interfaces using React/Angular and Typescript/JavaScript frameworks. Skilled inefficient back-end development with Node.js and Python, utilizing MySQL and MongoDB for scalable data modeling. Leveraging AWS (Amazon Web Services) for serverless capabilities through AWS Lambda, Amazon S3, and AWS CloudWatch. Effective communicator, consistently delivering high-quality code within timelines and budgets. Committed to continuous skills enhancement, staying updated with industry trends.
 
 ---
 
@@ -45,7 +45,7 @@ Innovative full stack developer with over 5 years of experience in crafting robu
 ### Software Developer: Rehab Medical (2018 – 2019) - Indianapolis, USA
 
 - Worked in Agile methodologies using Scrum, actively involved in sprint planning, requirements gathering, and end-to-end development lifecycle, encompassing design, coding, and unit testing.
-- HTML5, CSS3, JavaScript, and Angular(v7) UI design expert. Streamlined equipment procurement communication with a note tracking feature. Achieved 85% web app performance boost through Spring Boot microservices.
+- HTML5, CSS3, JavaScript, and Angular(v7) UI design expert. Streamlined equipment procurement communication with a note-tracking feature. Achieved 85% web app performance boost through Spring Boot microservices.
 - Efficiently managed data through the utilization of SQL queries and stored procedures, encompassing tasks such as saving user profiles, order information, and database retrieval.
 - Achieved 55% system throughput increase through effective design issue resolution, root cause analysis, data cleanup, troubleshooting, and impactful feature enhancements, delivering significant high-quality performance improvements and a 35% codebase upgrade.
 
