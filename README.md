@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Saloni Chauhan 
 
-*312-678-6689 | [saloni.chauhan@gmail.com](mailto:tosalonichauhan@gmail.com) | [GitHub](https://github.com/SFA16SCM21C) | [LinkedIn](https://www.linkedin.com/in/saloni-chauhan)*
+*312-678-6689 | [Link to Gmail](mailto:tosalonichauhan@gmail.com) | [Link to GitHub](https://github.com/SFA16SCM21C) | [Link to LinkedIn](https://www.linkedin.com/in/saloni-chauhan)*
 
 ---
 
