@@ -61,7 +61,7 @@ Innovative full-stack developer with over 5 years of experience in crafting robu
 
 ## SKILLS
 
-**Programming Languages:** Java(1.7, 1.8, v11), Python, AngularJS, Angular(v7, v12), NodeJS(v14), JavaScript(ES3, ES19), HTML5, CSS3.
+**Programming Languages:** Java(v1.7, 1.8, v11), Python, AngularJS, Angular(v7, v12), NodeJS(v14), JavaScript(ES3, ES19), HTML5, CSS3.
 
 **Operating Systems:** Windows, MacOS(Monterey)
 
