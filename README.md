@@ -89,6 +89,6 @@ Innovative full-stack developer with over 5 years of experience in crafting robu
 
 ## EDUCATION
 
-- **Masters in Computer and Information Security** from New England College (Online Course with Residency) - Henniker, USA
+- **Masters in Computer and Information Security** from New England College (Online Course with Residency) - Henniker, NH, USA
 - **Masters in Computer Science** from Illinois Institute of Technology, School of Engineering and Applied Science - Chicago, USA
 - **Bachelors in Information Technology** from University of Nagpur - Nagpur, India
