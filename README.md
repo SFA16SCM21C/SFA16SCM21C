@@ -30,7 +30,7 @@ Innovative full-stack developer with over 5 years of experience in crafting robu
 
 ## EMPLOYMENT
 
-### Senior Solutions Developer: Health iPASS Inc (2019 – 2023) - Chicago, USA
+### Senior Solutions Developer: HealthiPASS Inc (2019 – 2023) - Chicago, USA
 
 - Collaborated with technical teams for back-end development and maintenance, impacting 3 project components. Demonstrated problem-solving skills by achieving a 75% load time optimization for multiple dashboards using reusable UI components, on-demand loading, and REST APIs.
 - Implemented Micro Services in a service-oriented architecture, ensuring RESTful API adherence, documentation, and clean services for 3 applications using robust system architecture.
