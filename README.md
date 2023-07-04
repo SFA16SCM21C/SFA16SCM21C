@@ -54,7 +54,7 @@ Innovative full-stack developer with over 5 years of experience in crafting robu
 -
 
  Revamped partner pipeline, driving 14% revenue growth. Achieved 60% throughput boost, and conquered 80% data challenges through automation analysis using .NET, SpringBoot, and SQL.
-- Engineered .NET, SQL Server, and XAML user registration tool with an 80% time reduction. Led Partner Data Merge tool, improving efficiency by 95%. Utilized SQL-driven reports for backend assessments on a weekly basis.
+- Engineered .NET, SQL Server, and XAML user registration tool with an 80% time reduction. Led Partner Data Merge tool, improving efficiency by 90%. Utilized SQL-driven reports for backend assessments on a weekly basis.
 - Proficiency in Oracle data management and instrumental in AngularJS/Jasmine + Java migration for improved scalability and system consistency mentored new upcoming talent in the industry to get familiar with industrial trends.
 
 ---
