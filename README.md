@@ -65,9 +65,9 @@ Innovative full-stack developer with over 5 years of experience in crafting robu
 
 **Operating Systems:** Windows, MacOS(Monterey)
 
-**Technologies:** Jenkins CI/CD, JIRA, Twitter API, Web Services (REST), MSSQL, MySQL, ORACLE, Git, AngularJS and ReactJS, TypeScript(v1, v4), Postman, Bit Bucket, Firebase
+**Technologies:** Jenkins CI/CD, JIRA, Twitter API, Web Services (REST), MSSQL, MySQL, ORACLE, Git, AngularJS and ReactJS, TypeScript(v1, v4), Postman, BitBucket, Firebase
 
-**IDEs:** IntelliJ, Visual Studio, Eclipse, Spring
+**IDEs:** IntelliJ, Visual Studio, Eclipse
 
 ---
 
