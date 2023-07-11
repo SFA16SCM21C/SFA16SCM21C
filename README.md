@@ -45,7 +45,7 @@ Innovative full-stack developer with over 5 years of experience in crafting robu
 ### Software Developer: Rehab Medical (2018 – 2019) - Indianapolis, USA
 
 - Worked in Agile methodologies using Scrum, actively involved in sprint planning, requirements gathering, and end-to-end development lifecycle, encompassing design, coding, and unit testing.
-- HTML5, CSS3, JavaScript, and Angular(v7) UI design expert. Streamlined equipment procurement communication with a note-tracking feature. Achieved 85% web app performance boost through Spring Boot microservices.
+- HTML5, CSS3, JavaScript, and Angular(v7) UI design expert. Streamlined equipment procurement communication with a note-tracking feature. Achieved 85% web aapp performance boost through Spring Boot microservices.
 - Efficiently managed data through the utilization of SQL queries and stored procedures, encompassing tasks such as saving user profiles, order information, and database retrieval.
 - Achieved a 55% system throughput increase through effective design issue resolution, root cause analysis, data cleanup, troubleshooting, and impactful feature enhancements, delivering significant-high-quality performance improvements and a 35% codebase upgrade.
 
